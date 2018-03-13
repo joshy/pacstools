@@ -106,3 +106,7 @@ luigi.cfg
 *.csv
 dicoms
 dicoms_modified
+
+
+data/*
+config.ini

@@ -1,0 +1,8 @@
+[Download]
+dcmin = /dcm.in
+movescu = /usr/bin/movescu
+aet =
+aec =
+peer_address =
+peer_port =
+incoming_port =
